@@ -11,6 +11,6 @@ It's support 4 versions of encryptions:
 
 And some custom configs. 
 
-To buy the apk or the full source code, let me know on Telegram, https://t.me/mssdk
+To buy the apk or the full source code, let me know on Telegram, https://t.me/rev4free
 
-Full Source Code Price: **250**
+Full Source Code Price: **150**
