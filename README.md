@@ -13,6 +13,6 @@ And some custom configs.
 
 To see some examples check the apks in the `examples` folder 
 
-To buy the apk or the full source code, let me know on Telegram, `https://t.me/katzalo`
+To buy the apk or the full source code, let me know on Telegram, `https://t.me/dvnsty`
 
 Full Source Code Price: `600€\$`
